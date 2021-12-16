@@ -1,0 +1,21 @@
+{
+    "name": "france5g",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "@mapbox/geojson-merge": "^1.1.1",
+        "echarts": "^5.2.2",
+        "element-plus": "^1.2.0-beta.3",
+        "unplugin-vue-components": "^0.17.2",
+        "vue": "^3.2.16"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^1.9.3",
+        "vite": "^2.6.4",
+        "vite-plugin-singlefile": "^0.5.1"
+    }
+}
