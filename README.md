@@ -1,6 +1,7 @@
-# 5GenFrance
+# 5G en France
 
 LIFPROJET Automne 2021
+
 
 
 ### Qu'est-ce que c'est ?
@@ -44,6 +45,20 @@ Téléchargez et installez node.js sur le site officiel, et ajoutez le chemin d'
 Vérifiez si node.js est installé avec succès, win+R ouvre une fenêtre de commande, entrez node -v, si les informations de version sont sorties, l'installation est réussie.
 
 Installation des plugins dans VsCode : Python 3.7.2 , Jupyter , Pandas
+
+
+
+### Catalogue de développement
+
+assets : placez des images, telles que des logos, etc.
+
+components: Il y a un fichier de composant dans le répertoire composants, ce qui n'est pas nécessaire.
+
+App.vue : fichier d'entrée de projet, on peut aussi écrire des composants directement ici au lieu d'utiliser le répertoire des composants.
+
+main.js : le fichier principal du projet.
+
+package.json : Fichier de configuration du projet
 
 
 
