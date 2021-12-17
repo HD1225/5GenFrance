@@ -62,6 +62,13 @@ package.json : Fichier de configuration du projet
 
 
 
+### Exécuter l'invite :
+
+Exécution externe : Dans le dossier <u>dist</u>, double-cliquez pour ouvrir <u>index.html</u>.
+Exécuter en mode développement (Vs code) : Suivez les étapes dans l'ordre "<u>App.vue</u>" -> "Ouvrez <u>terminal</u>" -> "Entrez <u>npm run dev</u>".
+
+
+
 #### Développeurs :
 
 Dan HOU: p2112915
